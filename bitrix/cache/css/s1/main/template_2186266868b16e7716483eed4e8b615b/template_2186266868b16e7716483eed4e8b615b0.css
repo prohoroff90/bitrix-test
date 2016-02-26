@@ -1,0 +1,19 @@
+
+/* Start:/bitrix/templates/main/template_styles.css?1456458982420*/
+html {-webkit-text-size-adjust:none; min-height:100%;}
+body {padding: 0; margin:0; font-family:"Helvetica Neue", Helvetica, sans-serif; min-height:100%;}
+a {font-size:12px; color:#1d54a2; text-decoration:underline;}
+.menu li{
+	display:inline-block;
+	list-style-type:none;
+	text-align:left;
+	padding:0;
+	border-radius:4px;
+	border:1px solid #977248;
+}
+.menu a{
+	text-decoration:none;
+	color:#977248;
+	margin-right:10px;
+}
+/* End */

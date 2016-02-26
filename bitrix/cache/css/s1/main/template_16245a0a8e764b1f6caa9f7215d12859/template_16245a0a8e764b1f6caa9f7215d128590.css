@@ -1,0 +1,23 @@
+
+/* Start:/bitrix/components/bitrix/menu/templates/.default/style.min.css?1456448306490*/
+ul.left-menu{list-style:none;margin:0;padding:0;margin-bottom:8px;position:relative}ul.left-menu li{padding:10px 16px;background:#f5f5f5 url(/bitrix/components/bitrix/menu/templates/.default/images/left_menu_bg.gif) top repeat-x}ul.left-menu li a{font-size:100%;color:#bc262c;font-weight:bold;text-decoration:none}ul.left-menu li a:visited{color:#bc262c}ul.left-menu li a:hover{color:#bc262c}ul.left-menu li a.selected:link,ul.left-menu li a.selected:visited,ul.left-menu li a.selected:active,ul.left-menu li a.selected:hover{color:#fc8d3d}
+/* End */
+
+/* Start:/bitrix/templates/main/template_styles.css?1456459004420*/
+html {-webkit-text-size-adjust:none; min-height:100%;}
+body {padding: 0; margin:0; font-family:"Helvetica Neue", Helvetica, sans-serif; min-height:100%;}
+a {font-size:12px; color:#1d54a2; text-decoration:underline;}
+.menu li{
+	display:inline-block;
+	list-style-type:none;
+	text-align:left;
+	padding:0;
+	margin-right:10px;
+	border-radius:4px;
+	border:1px solid #977248;
+}
+.menu a{
+	text-decoration:none;
+	color:#977248;
+}
+/* End */
